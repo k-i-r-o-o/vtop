@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "VTOP-40%",
+			"path": ".."
+		},
+		{
+			"name": "realback",
+			"path": "../../android/realback"
+		}
+	],
+	"settings": {}
+}
